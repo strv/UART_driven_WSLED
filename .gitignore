@@ -1,4 +1,7 @@
 Debug
 Release
 .settings
+.mxproject
+*.launch
+*.swp
 
